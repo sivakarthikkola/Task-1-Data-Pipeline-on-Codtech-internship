@@ -17,7 +17,6 @@ Titanic Dataset (loaded from [this link](https://raw.githubusercontent.com/datas
 
 ## 📁 Files
 - `titanic_etl_pipeline.ipynb`: Code and explanation
-- `X_train.csv`, `X_test.csv`, etc.: Transformed datasets (optional)
 
 ## ✅ Tools Used
 - Python
